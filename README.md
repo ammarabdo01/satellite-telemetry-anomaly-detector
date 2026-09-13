@@ -15,6 +15,6 @@ A student-scale machine learning pipeline designed to identify unusual temperatu
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/satellite-telemetry-anomaly-detector.git](https://github.com/YOUR_USERNAME/satellite-telemetry-anomaly-detector.git)
+   git clone [https://github.com/ammarabdo01/satellite-telemetry-anomaly-detector.git](https://github.com/ammarabdo01/satellite-telemetry-anomaly-detector.git)
    cd satellite-telemetry-anomaly-detector
    
